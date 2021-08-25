@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 streamlit
 matplotlib
 numpy
+=======
+pandas
+streamlit
+matplotlib
+numpy
+>>>>>>> c85e68670de57c9ed19c32ab96ba8334c5c34f76
 vega_datasets

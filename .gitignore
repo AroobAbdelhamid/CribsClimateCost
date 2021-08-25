@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+**/Cribs
+**/code
+*dataToIgnore
+**.ipynb_checkpoints

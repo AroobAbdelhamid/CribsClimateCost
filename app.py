@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
@@ -138,7 +139,6 @@ def app():
 
    # df = pd.DataFrame({'a':[2,3,4], 'b': [3,1,5]})
    # st.write(df)
-
 
 
 if __name__ == '__main__':
