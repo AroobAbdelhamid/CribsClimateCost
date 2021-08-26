@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
@@ -135,11 +134,6 @@ def app():
     background, points, point = createmap(X_ypred_avg, singlezip)
     #approx 45 secs to get here 7.31
     st.altair_chart(background + points + point )
-
-
-   # df = pd.DataFrame({'a':[2,3,4], 'b': [3,1,5]})
-   # st.write(df)
-
 
 if __name__ == '__main__':
     app()
